@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @guhsecchiero
-- 👀 I’m interested in in working with games as a unity developer and also as a frontend developer
-- 🌱 I'm currently learning web development, studying HTML, CSS, JS and REACT
-- 💞️ I'm looking to collaborate on game development projects and web applications
+- 👀 I’m interested in in working with games as a unity developer and gameplay programmer.
+- 💞️ I'm looking to collaborate on game development projects.
 - 📫 How to find me by sending an email to guhsecchiero@outlook.com
 
 <!---
